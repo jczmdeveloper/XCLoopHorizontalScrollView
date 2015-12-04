@@ -3,7 +3,7 @@
 效果图如下：
 
 
-![iamge](https://raw.githubusercontent.com/jczmdeveloper/XCLoopHorizontalScrollView/master/screenshots/01.gif)
+![iamge](https://raw.githubusercontent.com/jczmdeveloper/XCLoopHorizontalScrollView/master/ScreenShots/01.gif)
 
 使用方法如下：
 
