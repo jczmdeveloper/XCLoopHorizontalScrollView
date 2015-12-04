@@ -1,5 +1,5 @@
 # XCLoopHorizontalScrollView
-自定义横向无限循环ScrollView-XCLoopHorizontalScrollView
+自定义横向无限循环ScrollView-XCLoopHorizontalScrollView，最少支持3个Item View。
 效果图如下：
 
 
